@@ -1,0 +1,64 @@
+#question;answer;wrong_answer1;wrong_answer2
+Which of these is the prime factorisation of 24?;2^3*3;3^2*2;2^2*3
+Which of these is the prime factorisation of 52?;2^2*13;2*13^2;2^3*13
+Which of these is the prime factorisation of 32?;2^5;2^4;2^6
+What is the LCM of 8 and 16?;16;2;32
+What is the LCM of 12 and 14?;84;168;42
+What is the HCF of 15 and 2?;1;5;10
+What is the HCF of 12 and 42?;6;3;12
+What type of reaction is photosynthesis?;Endothermic;Exothermic;Isothermic
+What type of reaction is respiration?;Exothermic;Endothermic;Isothermic
+Which of these expressions is identical to 14x-21?;7(2x-3);7(2x+3);7(3x+2)
+A quadratic function has how many roots?;2;4;1
+A linear function has how many roots?;1;2;3
+A cubic function has how many roots?;3;2;1
+The derivative of a quartic function is what?;cubic;quadratic;linear
+The derivative of a linear function is what?;constant;quadratic;cubic
+Which of these is not a formula to calculate energy?;I^2*R;I*V*T;(mv^2)/2
+Which of these is not a root of f(x) = x^3-8?;1+sqrt(-3);-1-sqrt(-3);-1+sqrt(-3)
+Which of these is used for measuring potential difference?;voltmeter;ammeter;hygrometer
+How many permutations are there for a 4 decimal digit PIN?;10000;1000;100000
+How many permutations are there for a 2 length alphanumeric string?;676;17576;325
+What is the value of 4 factorial?;24;6;20
+Which of these equations is true for integers >= 0?;gamma(n) = (n-1)!;gamma(n) = n!;gamma(n+1) = n!
+Opposite angles in a cyclic quadrilateral are what?;supplementary;complementary;equal
+Co-interior angles are what?;supplementary;complementary;equal
+Angles that add up to a right angle are what?;complementary;supplementary;equal
+Alternate angles are what?;equal;supplementary;complementary
+Which of these values is equal to the sum of complementary angles?;tau/4 or pi/2;tau/2 or pi;3*tau/4 or 3*pi/2
+What is the error interval of x if it is equal to 10 when rounded to 1 decimal place?;9,95≤x<10,05;9.5<9,5≤x<10,5;9,005≤x<10,005
+Which of these expressions is identical to 2x(7x+5)?;14x^2+10;10x^2+14;14x^2-10
+Where in a cell does respiration take place?;mitochondria;nucleus;cyptoplasm
+Which of these electromagnetic waves has the shortest wavelength;gamma rays;x-rays;ultraviolet
+Which of these elements is most reactive?;caesium;rubidium;potassium
+If a molecule is reduced, what happens to its electrons?;gains electrons;loses electrons;electrons are unchanged
+What is the charge of an alpha particle?;+2;+1;-2
+What is the charge of a beta partice?;-1;+1;0
+Which of these is NOT a type of radiation?;omega;gamma;alpha
+Which of these is the least penetrating type of radiation?;alpha;gamma;beta
+Which of these is most reactive?;fluorine;chlorine;bromine
+Which of these elements has the lowest melting point?;helium;hydrogen;neon
+Which of these elements has the lowest melting point?;caesium;gallium;aluminium
+Which size of hydrocarbons has lower volatility?;long chain;short chain;neither
+A regular polygon's apothem is 3, and its perimeter is 10, what is its area?;15;30;45
+The integral of a constant function is what?;linear;constant;quadratic
+When a polynomial f(x) is divided by x+3, what is the remainder?;f(-3);f(3);f(0)
+When a polynomial f(x) is divided by x-3, what is the remainder?;f(3);f(-3);f(0)
+What is the exact value of cos(tau/4) or cos(pi/2)?;0;1;-1
+Density is equal to which of these?;mass/volume;volume/mass;weight/volume
+What is the sum of the interior angles of an octogon?;3*tau or 6*pi;2*tau or 4*pi;4*tau or 8*pi
+Which of these organic compounds is saturated?;alkanes;alkenes;alkynes
+How many hydrogen atoms does an acyclic alkane with 20 carbon atoms have?;42;40;36
+What is the atom economy of addition polymerisation?;100%;50%;75%
+Saturated compounds only contain what type of covalent bonds?;single;double;triple
+Which of these is NOT in standard index form?;0,8*10^4;-2*10^(-3);5,6*10^(0)
+A square's length is 20 when rounded to nearest 10. What is the lowest possible value for its area?;225;400;10
+What is the error interval of x if it is equal to 10 when rounded to 1 significant figure?;9,5 ≤ x < 15;9,5 ≤ x < 10,5;5 ≤ x < 15
+What is the error interval of n if it is equal to 340 when truncated to 10?;340 ≤ n < 350;335 ≤ n < 345;340 ≤ n < 400
+What is the error interval of x if it is equal to 12100 when rounded to 3 significant figures?;12050 ≤ x < 12150;12005 ≤ x < 12150; 11950 ≤ x < 12105
+Which of these is not a root of f(x) = x^3-125?;5/2 + sqrt(5*3i)/2;5;-5/2 + sqrt(5*3i)
+Which values of x satisfy the inequality: (x-3)(x-4) > 0?;x > 4 or x < 3; 3 < x < 4; -4 < x < -3
+Which values of x satisfy the inequality: (x-8)(x-12) < 0?;8 < x < 12;12 < x < 8; -12 < x < -8
+Which integers satisfy the inequality: 3 < n < 6?;4 and 5;3, 4, and 5;3, 4, 5, and 6
+Which integers satisfy the inequality: 3 ≤ n < 6?;3, 4, and 5;4 and 5;3, 4, 5, and 6
+If x < 5, and y > 7, then what is the inequality for x-y?;x-y < -2;x-y > 2;x-y > -2
